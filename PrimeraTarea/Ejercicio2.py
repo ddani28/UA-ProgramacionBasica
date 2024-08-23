@@ -1,12 +1,3 @@
-"""
-number1 = input('Ingrese un numero')
-number2 = input('Ingrese un numero')
-
-if number1 > number2:
-    print(f'{number1} es mayor a  {number2}')
-else:
-    print(f'{number2} es mayor a {number1}')
-"""
 numeros= []
 for i in range(2):
     try:

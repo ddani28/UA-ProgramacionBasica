@@ -1,5 +1,3 @@
-
-
 try:
     cap_inicial = float(input('Ingrese el capital inicial: '))
     interes_anual = float(input('Ingrese el interes anual: ')) 

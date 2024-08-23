@@ -1,5 +1,3 @@
-
-
 try:
     horas = input('Ingrese las horas a convertir: ')
     horasValid = int(horas)

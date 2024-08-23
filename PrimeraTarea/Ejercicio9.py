@@ -1,4 +1,3 @@
-
 try:
     añoUnvalid = input('Ingrese el año: ')
     añoValid = int(añoUnvalid)
